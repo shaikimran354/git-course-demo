@@ -2,4 +2,6 @@ HELLO WORLD
 my name is SHAIK IMRAN
 
 The changes will be commited to feature1 branch
+always we have to merge from main branch 
+main -> feature1
 
